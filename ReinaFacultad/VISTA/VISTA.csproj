@@ -1,0 +1,77 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.OleDb" Version="10.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CONTROLADOR\CONTROLADOR.csproj" />
+    <ProjectReference Include="..\MODELO\MODELO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="FotoCandidata.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LabelComentarios.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LabelDatosFoto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="LabelVotar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="VentanaAgregarComentario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaAgregarFoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaCandidata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaCandidataEstud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaComentariadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaCrearAlbunes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaResultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaVerFotos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaVerFotosEstud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VentanaVotar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

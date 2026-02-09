@@ -1,0 +1,16 @@
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\bin\Debug\net8.0\CONTROLADOR.deps.json
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\bin\Debug\net8.0\CONTROLADOR.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\bin\Debug\net8.0\CONTROLADOR.pdb
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.csproj.AssemblyReference.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.AssemblyInfoInputs.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.AssemblyInfo.cs
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.csproj.CoreCompileInputs.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\refint\CONTROLADOR.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.pdb
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\ref\CONTROLADOR.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\bin\Debug\net8.0\MODELO.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\bin\Debug\net8.0\MODELO.pdb
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLADOR.sourcelink.json
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\CONTROLADOR\obj\Debug\net8.0\CONTROLA.E5E58375.Up2Date

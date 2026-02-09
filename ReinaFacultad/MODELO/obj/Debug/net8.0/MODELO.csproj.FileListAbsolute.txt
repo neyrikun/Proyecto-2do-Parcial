@@ -1,0 +1,13 @@
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.csproj.AssemblyReference.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.AssemblyInfoInputs.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.AssemblyInfo.cs
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\bin\Debug\net8.0\MODELO.deps.json
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\bin\Debug\net8.0\MODELO.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\bin\Debug\net8.0\MODELO.pdb
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\refint\MODELO.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.pdb
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\ref\MODELO.dll
+C:\Users\neyri\Desktop\Universidad de Guayaquil\05 - Semestre\Programación Orientado a Evento\Proyecto 2do Parcial\ReinaFacultad\MODELO\obj\Debug\net8.0\MODELO.sourcelink.json
