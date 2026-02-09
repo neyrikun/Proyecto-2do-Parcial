@@ -400,11 +400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\VISTA\\VISTA.csproj",
+      "projectUniqueName": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\VISTA\\VISTA.csproj",
       "projectName": "VISTA",
-      "projectPath": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\VISTA\\VISTA.csproj",
+      "projectPath": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\VISTA\\VISTA.csproj",
       "packagesPath": "C:\\Users\\neyri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\VISTA\\obj\\",
+      "outputPath": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\VISTA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -426,11 +426,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\CONTROLADOR\\CONTROLADOR.csproj": {
-              "projectPath": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\CONTROLADOR\\CONTROLADOR.csproj"
+            "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\CONTROLADOR\\CONTROLADOR.csproj": {
+              "projectPath": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\CONTROLADOR\\CONTROLADOR.csproj"
             },
-            "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj": {
-              "projectPath": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj"
+            "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj": {
+              "projectPath": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bbu4BQJAJWk=",
+  "dgSpecHash": "aRMj3V6RJWg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\neyri\\Desktop\\Universidad de Guayaquil\\05 - Semestre\\Programación Orientado a Evento\\Proyecto 2do Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj",
+  "projectFilePath": "C:\\Users\\neyri\\Documents\\GitHub\\Proyecto-2do-Parcial\\ReinaFacultad\\MODELO\\MODELO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neyri\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.2\\system.configuration.configurationmanager.10.0.2.nupkg.sha512",
     "C:\\Users\\neyri\\.nuget\\packages\\system.data.oledb\\10.0.2\\system.data.oledb.10.0.2.nupkg.sha512",

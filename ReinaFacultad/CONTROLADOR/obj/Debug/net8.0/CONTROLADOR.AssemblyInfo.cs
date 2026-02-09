@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CONTROLADOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d9b6b6ea9414f1004f338c0d3d4032fb8d1e56b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c923d2e44bb2727c7ee39ec9e2c6b5be344dd81")]
 [assembly: System.Reflection.AssemblyProductAttribute("CONTROLADOR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CONTROLADOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
